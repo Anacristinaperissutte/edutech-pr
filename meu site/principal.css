@@ -1,0 +1,53 @@
+body {
+	background: #FF00A8;
+	font-size: 30px;
+	margin: 20px;
+}
+
+h1{
+	font-size: 20px;
+}
+
+strong{
+	color: #b60070;
+}
+
+#imagem{
+	width: 500px;
+}
+h2 p{
+	text-align: center;
+}
+
+#logo{
+	width: 100%;
+}
+
+.laranjinha{
+	background: #FFFE90;
+	padding: 10px;
+	border: 10px solid #ffffff;
+}
+
+.quais{
+	color: #ffffff;
+	text-align: center;
+	
+}
+
+.ponto{
+	font-style: italic;
+}
+
+h2 a {
+	text-transform: uppercase; 
+	color: #ffffff; 
+	font-weight: bold; 
+	font-size: 22px;
+	text-decoration: none;
+}
+
+h2 a:hover{
+	color: #FF95D7;
+	text-decoration: underline;
+}

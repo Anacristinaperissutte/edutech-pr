@@ -1,0 +1,124 @@
+header{
+	background: #FF00A8;
+	padding: 10px; 
+}
+
+.rosa{
+	position: relative;
+	width: 90%;
+	margin: 0 auto; 
+}
+
+nav {
+	position: absolute;
+	top: 1%;
+	right: 0; 
+}
+
+nav li{
+	display: inline; 
+	margin: 0 0 0 15px;
+	
+}
+
+nav a {
+	text-transform: uppercase; 
+	color: #000000; 
+	font-weight: bold; 
+	font-size: 22px; 
+	text-decoration: none; 
+	
+}
+
+nav a:hover{
+	color: #FF95D7;
+	text-decoration: underline;
+}
+
+#imagem{
+	width: 500px;
+}
+
+#logo{
+	width: 50%;
+}
+
+body {
+	background:#000000;
+	margin: 50px;
+}
+
+strong{
+	color: #FFFE90;
+}
+
+#imagem{
+	width: 500px;
+}
+h2 p{
+	text-align: center;
+}
+
+#logo{
+	width: 100px;
+}
+
+.laranjinha{
+	background: #FFFE90;
+	padding: 10px;
+}
+
+#RM{
+	width: 300px;
+}
+
+.nam{
+	display: flex;
+	align-items: center;
+}
+
+#jin{
+	width:300px;
+}
+
+h4 a {
+	text-transform: uppercase; 
+	color: #000000; 
+	font-weight: bold; 
+	font-size: 22px;
+	text-decoration: none;
+}
+
+h4 a:hover{
+	color: #FFA100;
+	text-decoration: underline;
+}
+
+/*musica*/
+
+h3 p{
+	text-align: center;
+}
+
+.musica{
+	display: flex;
+	align-items: left;
+}
+
+h4 a {
+	text-transform: uppercase; 
+	color: #000000; 
+	font-weight: bold; 
+	font-size: 22px;
+	text-decoration: none;
+}
+
+h4 a:hover{
+	color: #FFA100;
+	text-decoration: underline;
+}
+
+.video{
+	display: flex;
+	align-items: left;
+}
